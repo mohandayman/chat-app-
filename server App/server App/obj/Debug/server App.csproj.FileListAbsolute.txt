@@ -1,0 +1,11 @@
+C:\Users\mohand\Desktop\simple chat app\server App\server App\bin\Debug\server App.exe.config
+C:\Users\mohand\Desktop\simple chat app\server App\server App\bin\Debug\server App.exe
+C:\Users\mohand\Desktop\simple chat app\server App\server App\bin\Debug\server App.pdb
+C:\Users\mohand\Desktop\simple chat app\server App\server App\obj\Debug\server App.csproj.AssemblyReference.cache
+C:\Users\mohand\Desktop\simple chat app\server App\server App\obj\Debug\server App.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohand\Desktop\simple chat app\server App\server App\obj\Debug\server_App.Properties.Resources.resources
+C:\Users\mohand\Desktop\simple chat app\server App\server App\obj\Debug\server App.csproj.GenerateResource.cache
+C:\Users\mohand\Desktop\simple chat app\server App\server App\obj\Debug\server App.csproj.CoreCompileInputs.cache
+C:\Users\mohand\Desktop\simple chat app\server App\server App\obj\Debug\server App.exe
+C:\Users\mohand\Desktop\simple chat app\server App\server App\obj\Debug\server App.pdb
+C:\Users\mohand\Desktop\simple chat app\server App\server App\obj\Debug\server_App.Form1.resources

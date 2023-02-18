@@ -1,0 +1,11 @@
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\bin\Debug\Client App.exe.config
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\bin\Debug\Client App.exe
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\bin\Debug\Client App.pdb
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\obj\Debug\Client App.csproj.AssemblyReference.cache
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\obj\Debug\Client App.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\obj\Debug\Client_App.Properties.Resources.resources
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\obj\Debug\Client App.csproj.GenerateResource.cache
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\obj\Debug\Client App.csproj.CoreCompileInputs.cache
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\obj\Debug\Client App.exe
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\obj\Debug\Client App.pdb
+C:\Users\mohand\Desktop\simple chat app\Client App\Client App\obj\Debug\Client_App.Form1.resources
